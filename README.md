@@ -34,7 +34,7 @@ You can change the range of target detection in sensor module by changing values
 
 Evolution of Dynamic graph as episode progresses
 
-<img src=dynaGr.gif width=711 height=400>
+<img src=gifs/dynaGr.gif width=711 height=400>
 
 ### Python Environment
 
