@@ -1,6 +1,3 @@
-# Adapted from https://gist.github.com/betandr/541a1f6466b6855471de5ca30b74cb31
-from decimal import Decimal
-
 """
 MIT License from https://github.com/marmotlab/CAtNIPP/
 
@@ -24,6 +21,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
+
+# Adapted from https://gist.github.com/betandr/541a1f6466b6855471de5ca30b74cb31
+from decimal import Decimal
 
 
 class Edge:
